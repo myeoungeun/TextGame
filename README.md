@@ -2,7 +2,7 @@
 
 내용 : 텍스트 게임
 
-구현 : 
+구현 설명 : 
 https://www.notion.so/teamsparta/Unity-11-Text-RPG-2282dc3ef514815c96d3ca647420b33f
 1. 게임 시작 화면
 2. 상태 보기
